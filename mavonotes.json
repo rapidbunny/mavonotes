@@ -38,5 +38,20 @@
 		{
 			"title": "Ok"
 		}
+	],
+	"todo": [
+		{
+			"title": "Task 1"
+		}
+	],
+	"inProgress": [
+		{
+			"title": "Task 2"
+		}
+	],
+	"done": [
+		{
+			"title": "Task 3"
+		}
 	]
 }
