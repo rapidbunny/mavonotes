@@ -13,6 +13,8 @@
 			"text": "ok\n  lets\n    test\n\n       this"
 		},
 		{},
-		{}
+		{
+			"text": "ok"
+		}
 	]
 }
